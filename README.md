@@ -1,7 +1,7 @@
 <h1 align="center">Pranshu</h1>
 <h3 align="center">Frontend Developer</h3>
 
-- 🔭 I’m currently working as a **Software Engineer **
+
 - 🌍 I'm based in New Delhi, India
 
 ### Connect with me:
