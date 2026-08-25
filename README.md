@@ -4,7 +4,7 @@
 
 ### Software Developer & Data Analyst | OCI Generative AI Certified
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranshu-sharma-68554b263)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranshuksharma2002@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranshu-k-Sharma)
 
@@ -70,6 +70,22 @@ I'm a B.Tech Information Technology graduate (2026, HMR Institute of Technology 
 ---
 
 ### 📌 Featured Projects
+
+**Development**
+
+- **[Dhyanam – Meditation App](https://github.com/Pranshu-k-Sharma/Dhyanam-Meditation)**
+  A meditation/wellness web application focused on clean UI and a calming user experience.
+
+- **[HealthPro Website](https://github.com/Pranshu-k-Sharma/HealthPro-Website)**
+  A healthcare-focused website built with responsive front-end design and structured content presentation.
+
+- **[Diabetes Risk App](https://github.com/Pranshu-k-Sharma/diabetes-risk-app)**
+  A web app that assesses diabetes risk, combining a front-end interface with underlying prediction logic.
+
+- **[Housekeeping Project – DMRC](https://github.com/Pranshu-k-Sharma/Housekeeping_project-DMRC-)**
+  A housekeeping/operations management project built during the DMRC internship.
+
+**Data Analytics**
 
 - **[Customer Shopping Behavior Analysis](YOUR-REPO-LINK-HERE)**
   Retail analytics pipeline — Excel review → Python (Pandas/NumPy) cleaning → EDA with Matplotlib/Seaborn → MySQL transaction simulation → interactive Power BI dashboard.
