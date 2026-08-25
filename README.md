@@ -87,13 +87,13 @@ I'm a B.Tech Information Technology graduate (2026, HMR Institute of Technology 
 
 **Data Analytics**
 
-- **[Customer Shopping Behavior Analysis](YOUR-REPO-LINK-HERE)**
+- **[Customer Shopping Behavior Analysis](https://github.com/Pranshu-k-Sharma/Customer_behavior_analysis)**
   Retail analytics pipeline — Excel review → Python (Pandas/NumPy) cleaning → EDA with Matplotlib/Seaborn → MySQL transaction simulation → interactive Power BI dashboard.
 
-- **[Pizza Sales Data Analytics & Power BI Dashboard](YOUR-REPO-LINK-HERE)**
+- **[Pizza Sales Data Analytics & Power BI Dashboard](https://github.com/Pranshu-k-Sharma/Pizza-Sales-Data-Analytics)**
   Analyzed 21,350+ orders ($817K+ revenue) in MySQL; built a 2-page interactive Power BI dashboard with DAX measures for sales trends.
 
-- **[Healthcare Readmission Prediction & Analytics](YOUR-REPO-LINK-HERE)**
+- **[Healthcare Readmission Prediction & Analytics](https://github.com/Pranshu-k-Sharma/healthcare-readmission-prediction)**
   Cleaned a 100,000+ patient dataset (50 features), ran EDA with 12 visualizations, and trained Logistic Regression / Random Forest models with a risk-stratification framework.
 
 ---
